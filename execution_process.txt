@@ -1,0 +1,33 @@
+open file manager :
+
+go to the file location ( C:\Users\SNEHA\OneDrive\Desktop\Coapps\MediMapper-main\MediMapper-main )
+
+open jupter-notebook :
+
+
+goto OneDrive --> Desktop --> Coapps --> MediMapper-main --> MediMapper-main --> Medimapper.ipynb
+
+click kernel --> Restart & Run All.
+
+after successfully running all cells
+
+exit jupyter-notebook
+
+open new terminal
+
+paste and enter :
+
+cd C:\Users\SNEHA\OneDrive\Desktop\Coapps\MediMapper-main\MediMapper-main
+
+To install libraries or requirements run :
+
+pip install -r requirements.txt
+
+execute :
+
+python app.py
+
+open folowing link in chrome or any other browser :
+
+http://127.0.0.1:5000
+
