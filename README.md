@@ -1,8 +1,6 @@
 # MediMapper
 Navigating the Healthcare Data for Precision Medicine
 
-# MediMapper
-
 Welcome to the MediMapper project repository. MediMapper is an advanced platform designed to navigate and analyze healthcare data for precision medicine applications.
 
 ## Contents
