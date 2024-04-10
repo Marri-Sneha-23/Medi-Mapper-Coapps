@@ -48,3 +48,5 @@ We welcome contributions from the community. If you'd like to contribute to the 
 2. Create a new branch for your feature or bug fix.
 3. Make your changes and ensure they adhere to the project's coding standards.
 4. Submit a pull request detailing your changes.
+
+## License
